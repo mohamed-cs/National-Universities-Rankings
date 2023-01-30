@@ -14,11 +14,11 @@ Explore each category separately as well as with other considerations through vi
 <ol>
   <li>What is the total Number of Enrolment ? </li>
   <li>How Many states exist in the United State ?</li>
-  <li>Top 10 universites with highest Tuition and fees </li>
-  <li>Top 10 universites with lowest Tuition and fees </li>
-  <li>Top 10 Universites with higest Number of Enrollment Student </li>
-  <li>Top 10 Universites with lowest Number of Enrollment Student </li>
-  <li>Top 5 universities with the higest rank </li>
+  <li>Top 10 universities with the highest Tuition and fees </li>
+  <li>Top 10 universities with the lowest Tuition and fees </li>
+  <li>Top 10 Universities with the highest Number of Enrollment Student </li>
+  <li>Top 10 Universities with the lowest Number of Enrollment Student </li>
+  <li>Top 5 universities with the highest rank </li>
   <li>Top 5 universities with the lowest rank</li>
   <li>Number of Universities per state</li>
 </ol>  
