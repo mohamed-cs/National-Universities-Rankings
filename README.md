@@ -7,3 +7,19 @@
 This collection of data is all that's needed for potential students - parents, counselors and more - to evaluate their choices in selecting a college or university that perfectly meets their needs. For instance: what is the total tuition & fees cost? What are student enrollment numbers? How have students rated this school? Which universities have been recognized as top institutions in academics by U.S. News & World Report? What admissions criteria do these schools evaluate when considering an applicant's profile? The answers lie within this dataset!
 
 Explore each category separately as well as with other considerations through visuals like our scatter plot to get an inside look into collegiate education from enrollment patterns charted against yearly expenses including room & board charges without forgetting several crucial factors such as six-year graduation rates and freshman retention rates measured among nations' universities included here -allowing for comparison and assessment beforehand for a well-rounded experience such that you can find your own path ahead!</p>
+
+
+# Question to Answer 
+
+<ol>
+  <li>What is the total Number of Enrolment ? </li>
+  <li>How Many states exist in the United State ?</li>
+  <li>Top 10 universites with highest Tuition and fees </li>
+  <li>Top 10 universites with lowest Tuition and fees </li>
+  <li>Top 10 Universites with higest Number of Enrollment Student </li>
+  <li>Top 10 Universites with lowest Number of Enrollment Student </li>
+  <li>Top 5 universities with the higest rank </li>
+  <li>Top 5 universities with the lowest rank</li>
+  <li>Number of Universities per state</li>
+</ol>  
+    
