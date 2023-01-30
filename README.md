@@ -23,3 +23,6 @@ Explore each category separately as well as with other considerations through vi
   <li>Number of Universities per state</li>
 </ol>  
     
+# Power BI Dashboard    
+![download](https://user-images.githubusercontent.com/58373612/215552269-d18308f8-d3d2-45df-9a0e-a22810d060b7.png)
+
