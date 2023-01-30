@@ -24,5 +24,5 @@ Explore each category separately as well as with other considerations through vi
 </ol>  
     
 # Power BI Dashboard    
-![download](https://user-images.githubusercontent.com/58373612/215552269-d18308f8-d3d2-45df-9a0e-a22810d060b7.png)
+![Universites_page](https://user-images.githubusercontent.com/58373612/215552355-a16d4495-6a5b-4781-80af-b215117d4d39.jpg)
 
